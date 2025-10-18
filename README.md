@@ -137,8 +137,9 @@ Mentor, Infosys Springboard Internship 6.0
 **Syed Sharshad**  
 Infosys Springboard Intern  
 
-📧 Email: *syedsharshad@gmail.com*  
-📍 Location: India  
+📧 Email-1: *sharshadsd@gmail.com*
+📧 Email-2: *sdsharshad@gmail.com*
+📍 Location: Bidar, Karnataka, India.  
 
 ---
 
