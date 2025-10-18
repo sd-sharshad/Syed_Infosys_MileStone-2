@@ -1,0 +1,551 @@
+student_name,student_id,education_qualification,skills,certifications,projects,job_role,salary_expectation,experience_years,location_preference
+Ravi Singh,S196,MBA,"Marketing, Sales",Data Science with R,E-commerce Website,Business Analyst,900000.0,3.0,Ahmedabad
+Sneha Patel,S080,B.Com,"Python, Excel",Java Foundations,E-commerce Website,Web Developer,450000.0,,Chennai
+Ankit Mehta,S481,B.Tech ECE,,Google Data Analytics,Library Management,Business Analyst,450000.0,0.0,Mumbai
+Rahul Verma,S110,B.Com,"Python, Excel",AI Certification,AI Chatbot,Data Scientist,450000.0,2.0,Pune
+Neha Gupta,S281,B.Tech ECE,"Management, Excel",Excel Basics,Student Portal,AI Engineer,400000.0,4.0,Delhi
+Meena Rani,S223,BCA,"Marketing, Sales",,Customer Retention,Data Scientist,,4.0,
+Rahul Verma,S085,BBA,"Marketing, Sales",,Customer Retention,Data Scientist,500000.0,3.0,Mumbai
+Ankit Mehta,S369,B.Com,"Python, Excel",Java Foundations,HR Automation,Full Stack Developer,400000.0,4.0,Ahmedabad
+Rahul Verma,S133,B.Tech CSE,"C++, HTML, CSS",,Market Analysis,Data Scientist,400000.0,1.0,Ahmedabad
+Arjun Rao,S365,MCA,"Data Analytics, Power BI",Azure Fundamentals,Sales Forecasting,Software Developer,350000.0,2.0,Remote
+Amit Kumar,S185,M.Tech AI,"Java, Spring",Java Foundations,Student Portal,Full Stack Developer,350000.0,4.0,Bangalore
+Arjun Rao,S011,M.Tech AI,"Python, ML, SQL",Excel Basics,Library Management,Full Stack Developer,500000.0,4.0,Bangalore
+Arjun Rao,S074,MBA,"Python, ML, SQL",AWS Cloud Practitioner,Sales Forecasting,Marketing Executive,,1.0,Jaipur
+Ankit Mehta,S221,MBA,,AI Certification,Market Analysis,AI Engineer,800000.0,1.0,Delhi
+Neha Gupta,S279,B.Tech CSE,,Google Data Analytics,HR Automation,Full Stack Developer,550000.0,0.0,Hyderabad
+Ravi Singh,S083,M.Sc Data Science,"React, Node.js",,Student Portal,Full Stack Developer,350000.0,,
+Amit Kumar,S383,B.Sc IT,"Cloud, DevOps",Excel Basics,Customer Retention,Business Analyst,900000.0,1.0,Hyderabad
+Amit Kumar,S007,B.Com,"AI, ML, Python",Digital Marketing,Customer Retention,Software Developer,700000.0,1.0,Bangalore
+Rahul Verma,S219,B.Tech CSE,"C++, HTML, CSS",Python for Everyone,Library Management,Software Developer,350000.0,0.0,Hyderabad
+Priya Sharma,S449,BBA,"Python, ML, SQL",,Customer Retention,Web Developer,900000.0,2.0,Delhi
+Priya Sharma,S397,MCA,"Java, Spring",Java Foundations,Web Scraper,Data Scientist,600000.0,1.0,Delhi
+Meena Rani,S168,B.Sc IT,"Data Analytics, Power BI",Python for Everyone,E-commerce Website,Web Developer,700000.0,4.0,Kolkata
+Kiran Das,S469,,"C++, HTML, CSS",,Data Dashboard,Marketing Executive,,3.0,Bangalore
+Ravi Singh,S173,M.Sc Data Science,"Marketing, Sales",Data Science with R,Library Management,Full Stack Developer,400000.0,0.0,Delhi
+Meena Rani,S082,BCA,"Python, Excel",Java Foundations,Customer Retention,Data Analyst,350000.0,1.0,Ahmedabad
+Amit Kumar,S007,B.Com,"AI, ML, Python",Digital Marketing,Customer Retention,Software Developer,700000.0,1.0,Bangalore
+Ravi Singh,S186,M.Tech AI,"Python, Excel",AI Certification,Web Scraper,AI Engineer,800000.0,0.0,Jaipur
+Arjun Rao,S290,B.Tech ECE,"C++, HTML, CSS",,Sales Forecasting,Web Developer,800000.0,3.0,Mumbai
+Meena Rani,S378,MCA,"AI, ML, Python",AWS Cloud Practitioner,E-commerce Website,Software Developer,450000.0,2.0,Pune
+Rahul Verma,S125,MBA,"Marketing, Sales",Leadership Basics,Library Management,Data Scientist,400000.0,0.0,Delhi
+Priya Sharma,S251,M.Sc Data Science,"Management, Excel",Data Science with R,Data Dashboard,Cloud Engineer,450000.0,3.0,Jaipur
+Amit Kumar,S482,MBA,"Management, Excel",AWS Cloud Practitioner,E-commerce Website,HR Analyst,350000.0,3.0,Ahmedabad
+Ravi Singh,S329,MBA,"React, Node.js",Leadership Basics,Market Analysis,Business Analyst,600000.0,1.0,Hyderabad
+Priya Sharma,S073,MCA,"C++, HTML, CSS",Digital Marketing,Library Management,AI Engineer,,1.0,Remote
+Amit Kumar,S149,B.Com,"Python, ML, SQL",Java Foundations,Customer Retention,AI Engineer,,,Kolkata
+Neha Gupta,S077,B.Com,"Management, Excel",Google Data Analytics,Data Dashboard,Data Scientist,700000.0,1.0,Chennai
+Ankit Mehta,S003,B.Sc IT,"AI, ML, Python",Leadership Basics,AI Chatbot,Marketing Executive,500000.0,,Chennai
+Amit Kumar,S166,BCA,"Python, Excel",,Customer Retention,Cloud Engineer,550000.0,3.0,Ahmedabad
+Sneha Patel,S417,MCA,"Marketing, Sales",Leadership Basics,Customer Retention,Web Developer,400000.0,2.0,Kolkata
+Ankit Mehta,S429,B.Tech CSE,"Management, Excel",Java Foundations,HR Automation,HR Analyst,800000.0,0.0,Kolkata
+Amit Kumar,S200,BBA,"Management, Excel",Java Foundations,HR Automation,Cloud Engineer,400000.0,,Pune
+Amit Kumar,S210,B.Com,"Python, Excel",Azure Fundamentals,Library Management,AI Engineer,600000.0,0.0,Ahmedabad
+Ravi Singh,S355,BBA,"AI, ML, Python",Excel Basics,Web Scraper,Cloud Engineer,500000.0,2.0,Chennai
+Sneha Patel,S078,M.Tech AI,"Cloud, DevOps",AWS Cloud Practitioner,Student Portal,Business Analyst,400000.0,0.0,Mumbai
+Ankit Mehta,S154,MBA,"Python, Excel",Google Data Analytics,Student Portal,Business Analyst,400000.0,3.0,Kolkata
+Rahul Verma,S387,BBA,"Python, ML, SQL",Python for Everyone,Library Management,Marketing Executive,,2.0,Delhi
+Rahul Verma,S492,B.Tech CSE,"Management, Excel",,Library Management,HR Analyst,,4.0,Ahmedabad
+Meena Rani,S069,B.Tech ECE,"AI, ML, Python",Digital Marketing,Web Scraper,HR Analyst,900000.0,3.0,Chennai
+Neha Gupta,S281,B.Tech ECE,"Management, Excel",Excel Basics,Student Portal,AI Engineer,400000.0,4.0,Delhi
+Ravi Singh,S407,MCA,"Cloud, DevOps",Excel Basics,HR Automation,Data Analyst,350000.0,2.0,Mumbai
+Priya Sharma,S395,M.Sc Data Science,"C++, HTML, CSS",,Sales Forecasting,Cloud Engineer,400000.0,4.0,Mumbai
+Ankit Mehta,S071,B.Tech CSE,"React, Node.js",Excel Basics,Web Scraper,Marketing Executive,800000.0,4.0,Chennai
+Meena Rani,S211,,,Azure Fundamentals,Web Scraper,Software Developer,600000.0,2.0,Kolkata
+Meena Rani,S371,M.Tech AI,"Data Analytics, Power BI",,Customer Retention,Marketing Executive,,,Jaipur
+Ravi Singh,S320,M.Sc Data Science,"React, Node.js",Data Science with R,Library Management,Business Analyst,350000.0,2.0,Pune
+Ravi Singh,S056,MCA,"Marketing, Sales",AWS Cloud Practitioner,Market Analysis,Marketing Executive,500000.0,2.0,Pune
+Kiran Das,S131,B.Sc IT,"Management, Excel",AI Certification,,AI Engineer,700000.0,4.0,Remote
+Neha Gupta,S004,M.Sc Data Science,"Python, ML, SQL",AWS Cloud Practitioner,Sales Forecasting,Marketing Executive,900000.0,1.0,
+Kiran Das,S087,BCA,"Marketing, Sales",Azure Fundamentals,Web Scraper,Web Developer,,,Pune
+Meena Rani,S454,MCA,,Excel Basics,E-commerce Website,Software Developer,600000.0,0.0,Kolkata
+Ankit Mehta,S403,B.Com,"Java, Spring",AWS Cloud Practitioner,Web Scraper,Data Scientist,400000.0,0.0,Chennai
+Rahul Verma,S239,M.Sc Data Science,"React, Node.js",Java Foundations,Data Dashboard,Cloud Engineer,600000.0,4.0,Chennai
+Ankit Mehta,S031,B.Sc IT,"Marketing, Sales",Digital Marketing,Web Scraper,Data Scientist,600000.0,,Ahmedabad
+Priya Sharma,S178,BBA,"React, Node.js",,AI Chatbot,Business Analyst,700000.0,1.0,Hyderabad
+Amit Kumar,S105,MBA,"React, Node.js",Digital Marketing,HR Automation,Cloud Engineer,350000.0,1.0,Mumbai
+Rahul Verma,S010,B.Sc IT,"Java, Spring",Google Data Analytics,,Marketing Executive,500000.0,0.0,Delhi
+Rahul Verma,S146,MCA,"C++, HTML, CSS",AI Certification,Library Management,AI Engineer,550000.0,3.0,Pune
+Priya Sharma,S385,BBA,"Marketing, Sales",Python for Everyone,HR Automation,Full Stack Developer,900000.0,4.0,Chennai
+Kiran Das,S106,BBA,"Python, Excel",Data Science with R,Student Portal,Marketing Executive,550000.0,,
+Ankit Mehta,S091,BBA,"Data Analytics, Power BI",Leadership Basics,Data Dashboard,Data Analyst,500000.0,4.0,Mumbai
+Kiran Das,S079,BBA,"Python, Excel",Excel Basics,AI Chatbot,Business Analyst,700000.0,0.0,Hyderabad
+Arjun Rao,S496,M.Tech AI,"Management, Excel",Data Science with R,E-commerce Website,Software Developer,900000.0,2.0,Remote
+Neha Gupta,S312,BCA,"Python, ML, SQL",Google Data Analytics,E-commerce Website,Data Scientist,800000.0,2.0,Bangalore
+Neha Gupta,S118,MCA,"AI, ML, Python",AWS Cloud Practitioner,Sales Forecasting,Software Developer,600000.0,2.0,Mumbai
+Neha Gupta,S084,B.Tech ECE,"Data Analytics, Power BI",Python for Everyone,Student Portal,Software Developer,700000.0,2.0,Remote
+Rahul Verma,S382,MBA,,Digital Marketing,Customer Retention,Data Scientist,500000.0,4.0,
+Amit Kumar,S156,MCA,"Python, Excel",Digital Marketing,E-commerce Website,Marketing Executive,800000.0,2.0,Remote
+Ankit Mehta,S150,M.Sc Data Science,"Marketing, Sales",Azure Fundamentals,Customer Retention,AI Engineer,450000.0,4.0,Pune
+Priya Sharma,S033,B.Sc IT,"C++, HTML, CSS",Data Science with R,Student Portal,Data Scientist,600000.0,,Jaipur
+Sneha Patel,S164,M.Tech AI,"Management, Excel",Data Science with R,E-commerce Website,HR Analyst,350000.0,,Mumbai
+Kiran Das,S076,B.Sc IT,"Python, ML, SQL",Java Foundations,AI Chatbot,Data Analyst,500000.0,3.0,Remote
+Meena Rani,S321,BCA,"React, Node.js",Data Science with R,Student Portal,Data Analyst,400000.0,0.0,Remote
+Meena Rani,S230,BCA,"C++, HTML, CSS",Google Data Analytics,E-commerce Website,HR Analyst,,1.0,Kolkata
+Meena Rani,S069,B.Tech ECE,"AI, ML, Python",Digital Marketing,Web Scraper,HR Analyst,900000.0,3.0,Chennai
+Sneha Patel,S341,B.Tech ECE,"React, Node.js",Python for Everyone,E-commerce Website,Data Analyst,900000.0,,Kolkata
+Ankit Mehta,S064,B.Tech ECE,"Python, Excel",Digital Marketing,Market Analysis,HR Analyst,500000.0,,Jaipur
+Rahul Verma,S232,B.Tech CSE,"Java, Spring",Google Data Analytics,Market Analysis,Marketing Executive,350000.0,3.0,Pune
+Priya Sharma,S495,B.Tech ECE,"Data Analytics, Power BI",Excel Basics,AI Chatbot,Web Developer,400000.0,3.0,Jaipur
+Sneha Patel,S466,BBA,"C++, HTML, CSS",,,Web Developer,450000.0,0.0,Jaipur
+Neha Gupta,S451,M.Sc Data Science,"Data Analytics, Power BI",Excel Basics,Student Portal,Data Scientist,400000.0,4.0,
+Neha Gupta,S242,MCA,"Marketing, Sales",Leadership Basics,,Full Stack Developer,550000.0,3.0,Kolkata
+Meena Rani,S034,B.Sc IT,"React, Node.js",Leadership Basics,AI Chatbot,Business Analyst,,,Mumbai
+Neha Gupta,S408,B.Sc IT,"Cloud, DevOps",Digital Marketing,,Software Developer,600000.0,4.0,Ahmedabad
+Priya Sharma,S285,M.Tech AI,"Management, Excel",Google Data Analytics,Data Dashboard,Data Analyst,450000.0,1.0,Delhi
+Sneha Patel,S001,M.Sc Data Science,"React, Node.js",AWS Cloud Practitioner,Sales Forecasting,Marketing Executive,450000.0,1.0,Remote
+Amit Kumar,S012,B.Com,"C++, HTML, CSS",Java Foundations,Library Management,AI Engineer,500000.0,3.0,Kolkata
+Rahul Verma,S276,BBA,"Python, Excel",Java Foundations,,Business Analyst,700000.0,3.0,Pune
+Neha Gupta,S023,BCA,"C++, HTML, CSS",AWS Cloud Practitioner,Student Portal,HR Analyst,600000.0,3.0,Mumbai
+Kiran Das,S370,B.Tech ECE,"React, Node.js",Digital Marketing,Sales Forecasting,Web Developer,550000.0,4.0,Jaipur
+Sneha Patel,S102,B.Tech ECE,"AI, ML, Python",Digital Marketing,Market Analysis,Data Analyst,700000.0,1.0,Pune
+Ravi Singh,S132,M.Sc Data Science,"C++, HTML, CSS",Google Data Analytics,Market Analysis,Marketing Executive,,4.0,Ahmedabad
+Arjun Rao,S090,M.Tech AI,"C++, HTML, CSS",,E-commerce Website,Cloud Engineer,450000.0,3.0,Kolkata
+Arjun Rao,S334,B.Tech CSE,"Python, ML, SQL",Data Science with R,Sales Forecasting,Cloud Engineer,600000.0,4.0,Mumbai
+Ravi Singh,S138,BCA,"Management, Excel",Google Data Analytics,Library Management,Software Developer,500000.0,4.0,Remote
+Arjun Rao,S212,B.Tech ECE,"C++, HTML, CSS",,Sales Forecasting,Full Stack Developer,350000.0,1.0,Jaipur
+Meena Rani,S082,BCA,"Python, Excel",Java Foundations,Customer Retention,Data Analyst,350000.0,1.0,Ahmedabad
+Rahul Verma,S141,M.Sc Data Science,"AI, ML, Python",,E-commerce Website,Data Scientist,700000.0,1.0,Delhi
+Meena Rani,S372,M.Tech AI,,Excel Basics,Library Management,AI Engineer,350000.0,,Delhi
+Ravi Singh,S019,B.Tech ECE,"C++, HTML, CSS",Python for Everyone,Web Scraper,Data Analyst,800000.0,4.0,Mumbai
+Priya Sharma,S324,MBA,"AI, ML, Python",Java Foundations,Sales Forecasting,AI Engineer,350000.0,2.0,Delhi
+Ravi Singh,S483,BCA,"Python, ML, SQL",Google Data Analytics,Customer Retention,Data Scientist,700000.0,2.0,Pune
+Ankit Mehta,S159,MBA,"React, Node.js",Google Data Analytics,HR Automation,HR Analyst,450000.0,3.0,Delhi
+Neha Gupta,S016,B.Tech CSE,"React, Node.js",,E-commerce Website,Data Scientist,350000.0,1.0,Kolkata
+Ravi Singh,S335,M.Tech AI,"Marketing, Sales",Digital Marketing,Sales Forecasting,Business Analyst,350000.0,0.0,Jaipur
+Arjun Rao,S040,MBA,"React, Node.js",AWS Cloud Practitioner,E-commerce Website,Business Analyst,,1.0,Mumbai
+Rahul Verma,S055,BCA,"Python, Excel",Google Data Analytics,Web Scraper,HR Analyst,900000.0,4.0,Remote
+Ravi Singh,S348,MBA,"Data Analytics, Power BI",Digital Marketing,Customer Retention,Marketing Executive,700000.0,2.0,Mumbai
+Meena Rani,S047,MCA,"Python, ML, SQL",Leadership Basics,E-commerce Website,Marketing Executive,550000.0,0.0,Remote
+Ankit Mehta,S094,BBA,"React, Node.js",Python for Everyone,AI Chatbot,Marketing Executive,600000.0,4.0,Pune
+Priya Sharma,S479,BCA,"Data Analytics, Power BI",Excel Basics,HR Automation,Web Developer,400000.0,2.0,Mumbai
+Arjun Rao,S364,MCA,"C++, HTML, CSS",Python for Everyone,Library Management,AI Engineer,600000.0,,Pune
+Kiran Das,S494,BCA,"Data Analytics, Power BI",Google Data Analytics,Customer Retention,Web Developer,900000.0,,Bangalore
+Ravi Singh,S474,MBA,"Data Analytics, Power BI",Leadership Basics,Library Management,Web Developer,550000.0,,Jaipur
+Rahul Verma,S249,B.Tech CSE,"Marketing, Sales",Google Data Analytics,Customer Retention,AI Engineer,,2.0,Remote
+Kiran Das,S006,BBA,"Java, Spring",Data Science with R,Data Dashboard,Marketing Executive,600000.0,4.0,Mumbai
+Neha Gupta,S490,M.Tech AI,"Marketing, Sales",,Market Analysis,Full Stack Developer,400000.0,,Remote
+Sneha Patel,S445,B.Tech CSE,"C++, HTML, CSS",Digital Marketing,Customer Retention,Software Developer,400000.0,3.0,Hyderabad
+Ravi Singh,S366,M.Tech AI,"Python, Excel",Data Science with R,Student Portal,Data Scientist,600000.0,3.0,
+Ravi Singh,S205,BBA,"Python, Excel",Leadership Basics,Web Scraper,HR Analyst,,2.0,Jaipur
+Priya Sharma,S336,B.Com,,Java Foundations,Web Scraper,Data Analyst,600000.0,1.0,Delhi
+Arjun Rao,S358,B.Tech CSE,"Python, ML, SQL",Google Data Analytics,Sales Forecasting,Full Stack Developer,700000.0,4.0,Pune
+Arjun Rao,S362,BBA,"Management, Excel",Azure Fundamentals,Web Scraper,Data Analyst,550000.0,0.0,Pune
+Ankit Mehta,S311,B.Com,"Data Analytics, Power BI",Azure Fundamentals,E-commerce Website,Software Developer,400000.0,,Remote
+Arjun Rao,S399,M.Sc Data Science,"Data Analytics, Power BI",Leadership Basics,Library Management,Data Analyst,500000.0,1.0,Chennai
+Sneha Patel,S070,,"Cloud, DevOps",,Data Dashboard,Full Stack Developer,800000.0,0.0,Remote
+Kiran Das,S262,BCA,"React, Node.js",Google Data Analytics,HR Automation,Data Scientist,550000.0,1.0,Bangalore
+Ankit Mehta,S031,B.Sc IT,"Marketing, Sales",Digital Marketing,Web Scraper,Data Scientist,600000.0,,Ahmedabad
+Neha Gupta,S438,,"AI, ML, Python",,HR Automation,Full Stack Developer,450000.0,0.0,Pune
+Ankit Mehta,S183,BBA,"Python, ML, SQL",Leadership Basics,Market Analysis,Data Scientist,600000.0,3.0,Delhi
+Rahul Verma,S125,MBA,"Marketing, Sales",Leadership Basics,Library Management,Data Scientist,400000.0,0.0,Delhi
+Amit Kumar,S394,MCA,"Marketing, Sales",,AI Chatbot,Software Developer,,0.0,Delhi
+Rahul Verma,S226,M.Tech AI,"C++, HTML, CSS",AI Certification,Customer Retention,Data Analyst,,4.0,Pune
+Arjun Rao,S236,M.Tech AI,"React, Node.js",AI Certification,,Full Stack Developer,350000.0,,Hyderabad
+Amit Kumar,S177,B.Tech ECE,"Cloud, DevOps",Python for Everyone,,Marketing Executive,,2.0,
+Ankit Mehta,S188,BCA,"Python, Excel",Azure Fundamentals,Market Analysis,Data Scientist,350000.0,4.0,Kolkata
+Neha Gupta,S306,BCA,"C++, HTML, CSS",,Student Portal,AI Engineer,550000.0,,Kolkata
+Ravi Singh,S500,MBA,"Marketing, Sales",Leadership Basics,Market Analysis,Software Developer,550000.0,0.0,Remote
+Meena Rani,S384,M.Sc Data Science,"AI, ML, Python",Digital Marketing,HR Automation,AI Engineer,550000.0,3.0,Remote
+Ravi Singh,S275,BCA,"Data Analytics, Power BI",AWS Cloud Practitioner,Market Analysis,Software Developer,,2.0,Ahmedabad
+Ankit Mehta,S313,B.Com,"Java, Spring",Google Data Analytics,E-commerce Website,HR Analyst,600000.0,1.0,Delhi
+Priya Sharma,S368,B.Tech ECE,"Java, Spring",Data Science with R,Sales Forecasting,Marketing Executive,500000.0,3.0,Remote
+Meena Rani,S322,MBA,"Data Analytics, Power BI",,Customer Retention,Full Stack Developer,700000.0,1.0,Pune
+Kiran Das,S473,MCA,"AI, ML, Python",AWS Cloud Practitioner,Market Analysis,Web Developer,350000.0,0.0,Pune
+Sneha Patel,S020,B.Com,"Data Analytics, Power BI",AWS Cloud Practitioner,AI Chatbot,Business Analyst,800000.0,4.0,
+Kiran Das,S381,BCA,"React, Node.js",Python for Everyone,,Business Analyst,400000.0,4.0,Jaipur
+Arjun Rao,S057,B.Sc IT,"Data Analytics, Power BI",AI Certification,AI Chatbot,AI Engineer,700000.0,2.0,Bangalore
+Neha Gupta,S391,M.Sc Data Science,"Data Analytics, Power BI",Leadership Basics,HR Automation,Web Developer,400000.0,2.0,Pune
+Arjun Rao,S282,B.Tech ECE,"Python, Excel",Java Foundations,AI Chatbot,Full Stack Developer,350000.0,,Bangalore
+Ravi Singh,S396,MCA,"Python, Excel",Data Science with R,HR Automation,Marketing Executive,450000.0,3.0,Pune
+Priya Sharma,S472,B.Tech CSE,"Python, ML, SQL",Java Foundations,AI Chatbot,Business Analyst,900000.0,3.0,Kolkata
+Arjun Rao,S258,B.Tech CSE,"Python, Excel",Digital Marketing,Sales Forecasting,Web Developer,900000.0,,Pune
+Sneha Patel,S489,MCA,"Marketing, Sales",AWS Cloud Practitioner,Sales Forecasting,Web Developer,350000.0,1.0,Pune
+Sneha Patel,S193,MBA,"Python, ML, SQL",Data Science with R,Web Scraper,Data Scientist,800000.0,3.0,Delhi
+Ravi Singh,S026,B.Tech ECE,"React, Node.js",Azure Fundamentals,Data Dashboard,Cloud Engineer,500000.0,4.0,Remote
+Arjun Rao,S291,M.Tech AI,"Java, Spring",,E-commerce Website,HR Analyst,700000.0,1.0,Kolkata
+Ankit Mehta,S043,M.Sc Data Science,"Data Analytics, Power BI",Digital Marketing,Sales Forecasting,Business Analyst,700000.0,4.0,Remote
+Neha Gupta,S350,MCA,"Marketing, Sales",AI Certification,Data Dashboard,AI Engineer,400000.0,1.0,Chennai
+Arjun Rao,S357,BCA,"Marketing, Sales",,AI Chatbot,Data Analyst,700000.0,0.0,Jaipur
+Priya Sharma,S470,BBA,,AI Certification,AI Chatbot,Web Developer,450000.0,0.0,Hyderabad
+Arjun Rao,S400,MCA,,Data Science with R,Web Scraper,Data Analyst,800000.0,3.0,Hyderabad
+Neha Gupta,S319,B.Sc IT,"Java, Spring",Leadership Basics,AI Chatbot,Cloud Engineer,350000.0,,Kolkata
+Priya Sharma,S155,MCA,"C++, HTML, CSS",Digital Marketing,E-commerce Website,AI Engineer,700000.0,3.0,Bangalore
+Amit Kumar,S127,M.Tech AI,"Java, Spring",Digital Marketing,Sales Forecasting,Data Scientist,700000.0,4.0,Delhi
+Ravi Singh,S288,B.Tech ECE,"Java, Spring",,,Cloud Engineer,350000.0,4.0,Mumbai
+Rahul Verma,S375,B.Com,"React, Node.js",Data Science with R,Student Portal,Cloud Engineer,500000.0,4.0,Mumbai
+Sneha Patel,S175,BCA,"C++, HTML, CSS",Digital Marketing,Sales Forecasting,Cloud Engineer,800000.0,1.0,Pune
+Neha Gupta,S032,B.Sc IT,"React, Node.js",Google Data Analytics,E-commerce Website,HR Analyst,700000.0,2.0,
+Kiran Das,S114,BBA,"Data Analytics, Power BI",Leadership Basics,Market Analysis,Full Stack Developer,350000.0,2.0,Jaipur
+Ankit Mehta,S305,M.Sc Data Science,"Cloud, DevOps",Data Science with R,HR Automation,AI Engineer,700000.0,1.0,Pune
+Amit Kumar,S174,,"Java, Spring",Excel Basics,Data Dashboard,Marketing Executive,600000.0,,Kolkata
+Kiran Das,S363,B.Tech CSE,"Python, Excel",,Student Portal,Software Developer,450000.0,1.0,Remote
+Priya Sharma,S209,B.Com,"Cloud, DevOps",Java Foundations,Market Analysis,Data Scientist,350000.0,4.0,Pune
+Rahul Verma,S058,BBA,"Python, ML, SQL",Leadership Basics,Library Management,HR Analyst,600000.0,4.0,Chennai
+Amit Kumar,S256,B.Com,"Data Analytics, Power BI",,HR Automation,AI Engineer,800000.0,4.0,Kolkata
+Meena Rani,S025,BBA,"Cloud, DevOps",Google Data Analytics,Sales Forecasting,AI Engineer,,1.0,Jaipur
+Meena Rani,S018,B.Com,"Java, Spring",Excel Basics,Web Scraper,Software Developer,900000.0,3.0,Jaipur
+Neha Gupta,S238,M.Tech AI,"Java, Spring",Excel Basics,Student Portal,Business Analyst,350000.0,,Remote
+Ravi Singh,S067,B.Tech ECE,"C++, HTML, CSS",Data Science with R,Market Analysis,Data Analyst,450000.0,3.0,Delhi
+Amit Kumar,S250,B.Tech CSE,"Marketing, Sales",Python for Everyone,Library Management,Marketing Executive,350000.0,2.0,Remote
+Sneha Patel,S102,B.Tech ECE,"AI, ML, Python",Digital Marketing,Market Analysis,Data Analyst,700000.0,1.0,Pune
+Neha Gupta,S266,M.Sc Data Science,"Python, Excel",Google Data Analytics,Sales Forecasting,Data Analyst,600000.0,0.0,Ahmedabad
+Ravi Singh,S452,M.Sc Data Science,"Java, Spring",Azure Fundamentals,HR Automation,Web Developer,450000.0,2.0,Pune
+Neha Gupta,S447,MBA,"Data Analytics, Power BI",Digital Marketing,Sales Forecasting,Data Analyst,400000.0,1.0,Chennai
+Sneha Patel,S095,B.Com,"C++, HTML, CSS",Java Foundations,Library Management,Cloud Engineer,400000.0,1.0,Ahmedabad
+Ankit Mehta,S181,BCA,"AI, ML, Python",Data Science with R,Library Management,Software Developer,,1.0,Bangalore
+Neha Gupta,S235,MBA,"Cloud, DevOps",Data Science with R,Data Dashboard,Full Stack Developer,,,Jaipur
+Kiran Das,S093,B.Tech CSE,"Python, Excel",Python for Everyone,Customer Retention,HR Analyst,350000.0,4.0,Pune
+Rahul Verma,S024,B.Com,"C++, HTML, CSS",Java Foundations,E-commerce Website,Web Developer,,1.0,Mumbai
+Ankit Mehta,S278,B.Sc IT,"React, Node.js",Azure Fundamentals,AI Chatbot,Data Scientist,900000.0,0.0,Hyderabad
+Rahul Verma,S300,B.Tech CSE,"Cloud, DevOps",Excel Basics,Web Scraper,Cloud Engineer,700000.0,3.0,Bangalore
+Arjun Rao,S298,BBA,"Cloud, DevOps",Leadership Basics,Web Scraper,Cloud Engineer,400000.0,,Delhi
+Kiran Das,S006,BBA,"Java, Spring",Data Science with R,Data Dashboard,Marketing Executive,600000.0,4.0,Mumbai
+Amit Kumar,S117,M.Tech AI,"Java, Spring",Java Foundations,Customer Retention,Software Developer,550000.0,0.0,Bangalore
+Amit Kumar,S046,B.Tech ECE,"Data Analytics, Power BI",Google Data Analytics,Customer Retention,Marketing Executive,900000.0,4.0,Jaipur
+Meena Rani,S229,,"Cloud, DevOps",Google Data Analytics,Library Management,Software Developer,400000.0,3.0,Chennai
+Arjun Rao,S317,M.Tech AI,,Google Data Analytics,E-commerce Website,Data Analyst,600000.0,,Ahmedabad
+Priya Sharma,S017,M.Sc Data Science,"Data Analytics, Power BI",Azure Fundamentals,AI Chatbot,Marketing Executive,550000.0,,Mumbai
+Rahul Verma,S049,MBA,"React, Node.js",Data Science with R,Student Portal,Software Developer,350000.0,1.0,Remote
+Arjun Rao,S423,BCA,"React, Node.js",AWS Cloud Practitioner,Customer Retention,Data Analyst,450000.0,2.0,Bangalore
+Priya Sharma,S412,M.Sc Data Science,"React, Node.js",Java Foundations,Data Dashboard,HR Analyst,450000.0,2.0,Delhi
+Neha Gupta,S004,M.Sc Data Science,"Python, ML, SQL",AWS Cloud Practitioner,Sales Forecasting,Marketing Executive,900000.0,1.0,
+Neha Gupta,S273,BCA,"Management, Excel",Google Data Analytics,Customer Retention,HR Analyst,800000.0,4.0,Mumbai
+Arjun Rao,S245,B.Sc IT,"Cloud, DevOps",,Web Scraper,Full Stack Developer,500000.0,3.0,Ahmedabad
+Priya Sharma,S061,B.Tech ECE,,Python for Everyone,,Full Stack Developer,350000.0,4.0,Chennai
+Amit Kumar,S197,B.Com,"AI, ML, Python",Python for Everyone,Library Management,Marketing Executive,,4.0,Remote
+Ravi Singh,S335,M.Tech AI,"Marketing, Sales",Digital Marketing,Sales Forecasting,Business Analyst,350000.0,0.0,Jaipur
+Sneha Patel,S111,MBA,"Java, Spring",Azure Fundamentals,Web Scraper,HR Analyst,,2.0,Kolkata
+Neha Gupta,S458,MCA,"Management, Excel",Python for Everyone,E-commerce Website,Full Stack Developer,800000.0,4.0,Jaipur
+Amit Kumar,S302,B.Tech CSE,"Java, Spring",Google Data Analytics,Data Dashboard,AI Engineer,450000.0,0.0,Remote
+Ravi Singh,S030,BBA,"Management, Excel",Excel Basics,Student Portal,Data Scientist,,,Ahmedabad
+Kiran Das,S246,BBA,"AI, ML, Python",Excel Basics,E-commerce Website,HR Analyst,550000.0,3.0,Remote
+Meena Rani,S223,BCA,"Marketing, Sales",,Customer Retention,Data Scientist,,4.0,
+Ravi Singh,S027,BBA,"Python, ML, SQL",Excel Basics,,HR Analyst,900000.0,3.0,Bangalore
+Neha Gupta,S008,BBA,"Cloud, DevOps",AI Certification,E-commerce Website,Software Developer,800000.0,3.0,Chennai
+Kiran Das,S182,B.Com,"Python, Excel",,Market Analysis,Web Developer,450000.0,2.0,Chennai
+Amit Kumar,S051,M.Tech AI,"Python, Excel",Excel Basics,Web Scraper,Software Developer,800000.0,3.0,Remote
+Priya Sharma,S109,M.Sc Data Science,"AI, ML, Python",Data Science with R,Web Scraper,AI Engineer,800000.0,,Hyderabad
+Neha Gupta,S038,B.Sc IT,"Cloud, DevOps",Data Science with R,Web Scraper,Cloud Engineer,500000.0,1.0,Delhi
+Neha Gupta,S158,,"AI, ML, Python",Excel Basics,Student Portal,Marketing Executive,,0.0,Pune
+Neha Gupta,S077,B.Com,"Management, Excel",Google Data Analytics,Data Dashboard,Data Scientist,700000.0,1.0,Chennai
+Ravi Singh,S119,MBA,"Marketing, Sales",Azure Fundamentals,Customer Retention,Software Developer,400000.0,,Jaipur
+Rahul Verma,S413,,,Leadership Basics,Market Analysis,AI Engineer,500000.0,1.0,Delhi
+Ravi Singh,S115,B.Com,"Marketing, Sales",AWS Cloud Practitioner,Student Portal,HR Analyst,800000.0,4.0,
+Arjun Rao,S299,,"C++, HTML, CSS",AWS Cloud Practitioner,Customer Retention,Business Analyst,900000.0,2.0,Remote
+Sneha Patel,S204,B.Com,"Python, ML, SQL",Java Foundations,Customer Retention,Software Developer,900000.0,4.0,Delhi
+Kiran Das,S176,BBA,"Java, Spring",AI Certification,Student Portal,Cloud Engineer,550000.0,3.0,Bangalore
+Rahul Verma,S248,B.Sc IT,"Python, Excel",Excel Basics,AI Chatbot,Business Analyst,700000.0,,Remote
+Ravi Singh,S376,MBA,"C++, HTML, CSS",Python for Everyone,Data Dashboard,Full Stack Developer,900000.0,0.0,Remote
+Arjun Rao,S145,B.Com,"AI, ML, Python",Excel Basics,E-commerce Website,AI Engineer,900000.0,,Chennai
+Kiran Das,S195,B.Sc IT,"Cloud, DevOps",,,Marketing Executive,400000.0,2.0,Remote
+Arjun Rao,S427,MBA,"Marketing, Sales",,Customer Retention,Full Stack Developer,,4.0,Kolkata
+Rahul Verma,S440,MBA,"Java, Spring",Excel Basics,Customer Retention,AI Engineer,700000.0,3.0,
+Ankit Mehta,S292,BBA,"React, Node.js",AWS Cloud Practitioner,Student Portal,AI Engineer,800000.0,2.0,Kolkata
+Sneha Patel,S308,M.Sc Data Science,"Java, Spring",,Student Portal,HR Analyst,,3.0,Mumbai
+Ravi Singh,S421,BBA,"C++, HTML, CSS",Leadership Basics,Student Portal,Data Analyst,900000.0,1.0,Delhi
+Rahul Verma,S085,BBA,"Marketing, Sales",,Customer Retention,Data Scientist,500000.0,3.0,Mumbai
+Neha Gupta,S142,M.Sc Data Science,"Python, Excel",Digital Marketing,Student Portal,Web Developer,350000.0,,Ahmedabad
+Ankit Mehta,S422,B.Com,"Cloud, DevOps",Google Data Analytics,Library Management,Full Stack Developer,350000.0,0.0,Remote
+Meena Rani,S068,MCA,"Python, Excel",Leadership Basics,Sales Forecasting,Cloud Engineer,600000.0,3.0,Pune
+Priya Sharma,S433,BCA,"Management, Excel",Data Science with R,,Full Stack Developer,400000.0,0.0,Remote
+Priya Sharma,S228,B.Tech CSE,"Cloud, DevOps",Azure Fundamentals,Customer Retention,Software Developer,500000.0,1.0,Bangalore
+Amit Kumar,S169,BBA,"C++, HTML, CSS",AI Certification,Data Dashboard,Web Developer,400000.0,0.0,Bangalore
+Kiran Das,S189,MCA,"Cloud, DevOps",Azure Fundamentals,Data Dashboard,Software Developer,700000.0,1.0,Mumbai
+Sneha Patel,S272,MBA,"React, Node.js",,Market Analysis,Business Analyst,900000.0,4.0,Mumbai
+Rahul Verma,S435,M.Tech AI,"Management, Excel",Java Foundations,,Data Scientist,550000.0,3.0,Delhi
+Amit Kumar,S269,MBA,"Data Analytics, Power BI",,HR Automation,Data Analyst,350000.0,,Pune
+Arjun Rao,S194,B.Tech CSE,"AI, ML, Python",Azure Fundamentals,Library Management,Marketing Executive,550000.0,0.0,Remote
+Ankit Mehta,S153,MCA,"Marketing, Sales",Java Foundations,Student Portal,Marketing Executive,550000.0,,Mumbai
+Kiran Das,S195,B.Sc IT,"Cloud, DevOps",,,Marketing Executive,400000.0,2.0,Remote
+Priya Sharma,S356,M.Sc Data Science,"Data Analytics, Power BI",AWS Cloud Practitioner,Data Dashboard,AI Engineer,350000.0,3.0,Kolkata
+Sneha Patel,S411,B.Tech ECE,"Data Analytics, Power BI",Data Science with R,Market Analysis,Business Analyst,900000.0,2.0,Hyderabad
+Ankit Mehta,S404,BCA,"Python, Excel",,Sales Forecasting,AI Engineer,700000.0,3.0,Bangalore
+Kiran Das,S104,M.Tech AI,"Marketing, Sales",Digital Marketing,Sales Forecasting,Data Analyst,700000.0,4.0,Hyderabad
+Meena Rani,S378,MCA,"AI, ML, Python",AWS Cloud Practitioner,E-commerce Website,Software Developer,450000.0,2.0,Pune
+Neha Gupta,S075,B.Tech ECE,"Marketing, Sales",Python for Everyone,HR Automation,Cloud Engineer,400000.0,1.0,Pune
+Ankit Mehta,S354,B.Com,"React, Node.js",Digital Marketing,Market Analysis,Web Developer,800000.0,,Remote
+Arjun Rao,S212,B.Tech ECE,"C++, HTML, CSS",,Sales Forecasting,Full Stack Developer,350000.0,1.0,Jaipur
+Ravi Singh,S120,BCA,"Python, ML, SQL",Data Science with R,Student Portal,HR Analyst,700000.0,0.0,Remote
+Ankit Mehta,S323,BCA,"Java, Spring",Java Foundations,Library Management,Data Analyst,400000.0,0.0,Ahmedabad
+Kiran Das,S343,M.Sc Data Science,"Python, Excel",Google Data Analytics,Market Analysis,HR Analyst,900000.0,3.0,Delhi
+Sneha Patel,S409,BCA,"React, Node.js",AI Certification,Student Portal,Web Developer,500000.0,3.0,Chennai
+Ravi Singh,S461,B.Tech CSE,"AI, ML, Python",Data Science with R,Web Scraper,Cloud Engineer,900000.0,3.0,Hyderabad
+Meena Rani,S333,M.Tech AI,"Java, Spring",Data Science with R,Sales Forecasting,Web Developer,500000.0,4.0,Hyderabad
+Ravi Singh,S287,B.Sc IT,"Cloud, DevOps",Python for Everyone,Library Management,Marketing Executive,550000.0,2.0,Hyderabad
+Rahul Verma,S339,MBA,"Python, ML, SQL",Excel Basics,E-commerce Website,HR Analyst,500000.0,4.0,
+Priya Sharma,S443,BCA,"C++, HTML, CSS",Data Science with R,Customer Retention,Full Stack Developer,450000.0,1.0,Mumbai
+Ankit Mehta,S342,MCA,"Java, Spring",AI Certification,Data Dashboard,Data Analyst,800000.0,3.0,Delhi
+Rahul Verma,S037,M.Sc Data Science,,AWS Cloud Practitioner,HR Automation,AI Engineer,550000.0,3.0,Pune
+Arjun Rao,S140,BBA,"AI, ML, Python",Azure Fundamentals,E-commerce Website,Cloud Engineer,500000.0,2.0,Hyderabad
+Amit Kumar,S254,M.Sc Data Science,"Data Analytics, Power BI",Python for Everyone,Customer Retention,HR Analyst,600000.0,1.0,Jaipur
+Arjun Rao,S326,B.Com,"AI, ML, Python",Java Foundations,Customer Retention,Software Developer,800000.0,,Mumbai
+Neha Gupta,S060,B.Com,"React, Node.js",,Customer Retention,Business Analyst,400000.0,,Hyderabad
+Rahul Verma,S112,B.Tech ECE,"Python, Excel",Azure Fundamentals,Library Management,Marketing Executive,800000.0,3.0,Jaipur
+Sneha Patel,S303,B.Tech ECE,"Marketing, Sales",Excel Basics,Web Scraper,Data Analyst,900000.0,2.0,
+Priya Sharma,S463,B.Tech ECE,"Management, Excel",Leadership Basics,Customer Retention,AI Engineer,450000.0,4.0,Remote
+Ankit Mehta,S263,,"C++, HTML, CSS",Digital Marketing,Student Portal,Data Scientist,600000.0,4.0,Mumbai
+Ankit Mehta,S416,BCA,"Cloud, DevOps",AWS Cloud Practitioner,E-commerce Website,Full Stack Developer,,1.0,Kolkata
+Rahul Verma,S151,B.Sc IT,"Data Analytics, Power BI",Java Foundations,AI Chatbot,Cloud Engineer,550000.0,1.0,Jaipur
+Rahul Verma,S267,B.Tech ECE,"Data Analytics, Power BI",Leadership Basics,E-commerce Website,Data Analyst,,2.0,Mumbai
+Priya Sharma,S441,MBA,"AI, ML, Python",Data Science with R,Library Management,HR Analyst,800000.0,4.0,Chennai
+Sneha Patel,S039,BBA,"Marketing, Sales",Java Foundations,,Data Scientist,700000.0,4.0,Delhi
+Ravi Singh,S361,M.Sc Data Science,"C++, HTML, CSS",Excel Basics,Data Dashboard,Web Developer,550000.0,2.0,Hyderabad
+Ankit Mehta,S199,MCA,"C++, HTML, CSS",AI Certification,Market Analysis,AI Engineer,400000.0,2.0,Ahmedabad
+Ankit Mehta,S297,MCA,"AI, ML, Python",Leadership Basics,Customer Retention,Business Analyst,550000.0,3.0,Ahmedabad
+Arjun Rao,S147,BBA,"Python, ML, SQL",Leadership Basics,,AI Engineer,450000.0,1.0,Chennai
+Priya Sharma,S453,,"C++, HTML, CSS",AWS Cloud Practitioner,Customer Retention,Software Developer,500000.0,,Jaipur
+Ankit Mehta,S148,BBA,"Java, Spring",Python for Everyone,,Marketing Executive,450000.0,0.0,Remote
+Meena Rani,S401,B.Tech ECE,"C++, HTML, CSS",AWS Cloud Practitioner,Library Management,Business Analyst,800000.0,4.0,Delhi
+Arjun Rao,S425,B.Tech CSE,"Management, Excel",Data Science with R,AI Chatbot,Cloud Engineer,800000.0,4.0,Mumbai
+Arjun Rao,S124,M.Tech AI,"AI, ML, Python",AI Certification,HR Automation,Full Stack Developer,800000.0,3.0,Jaipur
+Sneha Patel,S426,,"Python, Excel",AWS Cloud Practitioner,Market Analysis,HR Analyst,,4.0,Bangalore
+Kiran Das,S097,BCA,"Marketing, Sales",Google Data Analytics,Web Scraper,Cloud Engineer,400000.0,,Pune
+Kiran Das,S144,MBA,"AI, ML, Python",Python for Everyone,Web Scraper,AI Engineer,900000.0,4.0,Jaipur
+Priya Sharma,S240,,"Management, Excel",AWS Cloud Practitioner,HR Automation,Business Analyst,350000.0,2.0,Mumbai
+Rahul Verma,S462,MBA,"Python, ML, SQL",AWS Cloud Practitioner,Market Analysis,AI Engineer,350000.0,2.0,Jaipur
+Rahul Verma,S098,,"React, Node.js",Data Science with R,Market Analysis,Cloud Engineer,800000.0,1.0,Jaipur
+Neha Gupta,S468,MBA,"Java, Spring",Data Science with R,Library Management,Full Stack Developer,,0.0,Bangalore
+Rahul Verma,S294,B.Sc IT,"Management, Excel",Excel Basics,E-commerce Website,AI Engineer,450000.0,,Remote
+Ravi Singh,S405,MBA,"Java, Spring",Azure Fundamentals,Library Management,Full Stack Developer,400000.0,,Kolkata
+Arjun Rao,S123,B.Sc IT,"C++, HTML, CSS",Data Science with R,Web Scraper,Web Developer,400000.0,3.0,Ahmedabad
+Arjun Rao,S184,MCA,"Cloud, DevOps",,HR Automation,Software Developer,800000.0,1.0,Delhi
+Amit Kumar,S203,M.Tech AI,"Cloud, DevOps",Java Foundations,Web Scraper,HR Analyst,,,Pune
+Meena Rani,S247,MBA,"Marketing, Sales",Data Science with R,Market Analysis,Web Developer,450000.0,1.0,Delhi
+Meena Rani,S471,MBA,"Python, Excel",AWS Cloud Practitioner,Data Dashboard,Business Analyst,450000.0,,Chennai
+Sneha Patel,S341,B.Tech ECE,"React, Node.js",Python for Everyone,E-commerce Website,Data Analyst,900000.0,,Kolkata
+Arjun Rao,S406,M.Tech AI,"AI, ML, Python",Google Data Analytics,Sales Forecasting,AI Engineer,500000.0,0.0,Bangalore
+Priya Sharma,S442,B.Com,"Python, Excel",AI Certification,HR Automation,AI Engineer,700000.0,0.0,Delhi
+Neha Gupta,S457,B.Sc IT,"Java, Spring",Google Data Analytics,AI Chatbot,Data Scientist,,2.0,
+Kiran Das,S325,B.Com,"Python, Excel",Data Science with R,Student Portal,Software Developer,450000.0,1.0,Pune
+Amit Kumar,S126,M.Sc Data Science,"React, Node.js",Excel Basics,Data Dashboard,Business Analyst,500000.0,,Delhi
+Priya Sharma,S347,M.Sc Data Science,"C++, HTML, CSS",Java Foundations,Market Analysis,Data Analyst,800000.0,4.0,Pune
+Sneha Patel,S224,,"Data Analytics, Power BI",AI Certification,Library Management,Marketing Executive,600000.0,0.0,Chennai
+Neha Gupta,S484,M.Tech AI,"Data Analytics, Power BI",Python for Everyone,Market Analysis,Cloud Engineer,600000.0,0.0,Delhi
+Neha Gupta,S220,B.Com,,Excel Basics,Market Analysis,Data Analyst,500000.0,,Ahmedabad
+Neha Gupta,S130,M.Sc Data Science,"C++, HTML, CSS",Java Foundations,AI Chatbot,Data Scientist,,2.0,Delhi
+Ravi Singh,S486,B.Sc IT,"AI, ML, Python",AWS Cloud Practitioner,Customer Retention,Data Scientist,800000.0,1.0,Hyderabad
+Kiran Das,S330,BBA,"Java, Spring",Azure Fundamentals,Web Scraper,Business Analyst,400000.0,2.0,Remote
+Rahul Verma,S377,B.Tech ECE,"Cloud, DevOps",Leadership Basics,Market Analysis,Business Analyst,900000.0,2.0,Mumbai
+Kiran Das,S437,B.Com,"React, Node.js",Azure Fundamentals,E-commerce Website,Software Developer,350000.0,1.0,Ahmedabad
+Priya Sharma,S332,B.Sc IT,"Marketing, Sales",Data Science with R,,Full Stack Developer,,3.0,Jaipur
+Ankit Mehta,S497,M.Tech AI,"Management, Excel",AWS Cloud Practitioner,Sales Forecasting,Marketing Executive,350000.0,,Bangalore
+Amit Kumar,S337,B.Tech CSE,"Java, Spring",Leadership Basics,Library Management,Data Analyst,550000.0,,Hyderabad
+Kiran Das,S295,MBA,"Cloud, DevOps",Java Foundations,Market Analysis,Web Developer,400000.0,3.0,
+Arjun Rao,S424,MBA,"Python, Excel",Excel Basics,Student Portal,Cloud Engineer,,1.0,Jaipur
+Meena Rani,S372,M.Tech AI,,Excel Basics,Library Management,AI Engineer,350000.0,,Delhi
+Priya Sharma,S349,M.Sc Data Science,,AI Certification,,Data Scientist,550000.0,1.0,Kolkata
+Rahul Verma,S113,M.Tech AI,"Java, Spring",AI Certification,Market Analysis,Data Scientist,400000.0,,Jaipur
+Neha Gupta,S180,B.Com,"Data Analytics, Power BI",AWS Cloud Practitioner,Sales Forecasting,Web Developer,400000.0,3.0,Delhi
+Ankit Mehta,S353,MCA,"Data Analytics, Power BI",,Data Dashboard,HR Analyst,,1.0,Delhi
+Ankit Mehta,S389,MBA,,AWS Cloud Practitioner,Sales Forecasting,AI Engineer,900000.0,3.0,Chennai
+Priya Sharma,S432,B.Tech ECE,"Data Analytics, Power BI",Leadership Basics,AI Chatbot,Data Analyst,600000.0,0.0,Kolkata
+Priya Sharma,S315,M.Sc Data Science,"Cloud, DevOps",Digital Marketing,Data Dashboard,Business Analyst,,,
+Amit Kumar,S152,M.Sc Data Science,"Management, Excel",AWS Cloud Practitioner,Student Portal,AI Engineer,600000.0,0.0,Pune
+Ravi Singh,S415,MBA,"Python, ML, SQL",Excel Basics,AI Chatbot,Data Analyst,600000.0,0.0,Pune
+Priya Sharma,S234,BBA,"Cloud, DevOps",AI Certification,Web Scraper,Data Analyst,700000.0,2.0,Chennai
+Priya Sharma,S307,B.Tech ECE,,Digital Marketing,Data Dashboard,HR Analyst,700000.0,0.0,Ahmedabad
+Arjun Rao,S357,BCA,"Marketing, Sales",,AI Chatbot,Data Analyst,700000.0,0.0,Jaipur
+Rahul Verma,S165,MBA,"Management, Excel",Excel Basics,Library Management,Data Analyst,550000.0,4.0,Delhi
+Arjun Rao,S318,MCA,"Java, Spring",Excel Basics,Market Analysis,Data Analyst,900000.0,3.0,Pune
+Amit Kumar,S137,BCA,"Management, Excel",Azure Fundamentals,Web Scraper,Software Developer,500000.0,2.0,Ahmedabad
+Ankit Mehta,S198,BCA,"Java, Spring",Java Foundations,Sales Forecasting,AI Engineer,900000.0,0.0,Chennai
+Arjun Rao,S259,,"Management, Excel",AWS Cloud Practitioner,Student Portal,Web Developer,900000.0,2.0,Kolkata
+Priya Sharma,S233,B.Tech ECE,"Java, Spring",Data Science with R,E-commerce Website,Cloud Engineer,700000.0,,Jaipur
+Arjun Rao,S116,M.Tech AI,"Java, Spring",Digital Marketing,Data Dashboard,Data Scientist,,,Chennai
+Arjun Rao,S121,B.Tech ECE,"Data Analytics, Power BI",AWS Cloud Practitioner,HR Automation,Cloud Engineer,550000.0,0.0,Hyderabad
+Sneha Patel,S478,M.Tech AI,"Python, Excel",Data Science with R,Library Management,Marketing Executive,700000.0,,Hyderabad
+Ankit Mehta,S225,MCA,"Data Analytics, Power BI",Excel Basics,Sales Forecasting,Data Analyst,350000.0,1.0,Mumbai
+Amit Kumar,S464,BBA,"Java, Spring",Google Data Analytics,AI Chatbot,Web Developer,350000.0,2.0,Delhi
+Arjun Rao,S074,MBA,"Python, ML, SQL",AWS Cloud Practitioner,Sales Forecasting,Marketing Executive,,1.0,Jaipur
+Ravi Singh,S348,MBA,"Data Analytics, Power BI",Digital Marketing,Customer Retention,Marketing Executive,700000.0,2.0,Mumbai
+Meena Rani,S128,BBA,"C++, HTML, CSS",Excel Basics,Library Management,AI Engineer,900000.0,,Remote
+Amit Kumar,S137,BCA,"Management, Excel",Azure Fundamentals,Web Scraper,Software Developer,500000.0,2.0,Ahmedabad
+Neha Gupta,S286,B.Tech CSE,"Marketing, Sales",Python for Everyone,Library Management,Web Developer,550000.0,2.0,
+Arjun Rao,S362,BBA,"Management, Excel",Azure Fundamentals,Web Scraper,Data Analyst,550000.0,0.0,Pune
+Sneha Patel,S409,BCA,"React, Node.js",AI Certification,Student Portal,Web Developer,500000.0,3.0,Chennai
+Ankit Mehta,S108,MBA,"Data Analytics, Power BI",Azure Fundamentals,E-commerce Website,Software Developer,900000.0,4.0,Chennai
+Arjun Rao,S496,M.Tech AI,"Management, Excel",Data Science with R,E-commerce Website,Software Developer,900000.0,2.0,Remote
+Amit Kumar,S374,BCA,"Marketing, Sales",Google Data Analytics,Student Portal,Data Analyst,900000.0,3.0,Pune
+Priya Sharma,S134,M.Tech AI,"Cloud, DevOps",Data Science with R,Student Portal,HR Analyst,500000.0,3.0,Delhi
+Rahul Verma,S434,BBA,"Python, Excel",Azure Fundamentals,Student Portal,Data Analyst,600000.0,4.0,Hyderabad
+Ravi Singh,S045,MBA,,,Market Analysis,Data Analyst,700000.0,2.0,Pune
+Rahul Verma,S170,B.Tech CSE,"C++, HTML, CSS",,Market Analysis,Cloud Engineer,,0.0,Remote
+Amit Kumar,S066,M.Tech AI,"React, Node.js",AI Certification,Student Portal,AI Engineer,600000.0,3.0,Bangalore
+Neha Gupta,S284,M.Sc Data Science,"Data Analytics, Power BI",Digital Marketing,Customer Retention,Cloud Engineer,400000.0,,Mumbai
+Priya Sharma,S086,MCA,"AI, ML, Python",Google Data Analytics,HR Automation,Data Analyst,450000.0,,Mumbai
+Ravi Singh,S243,BBA,"Java, Spring",Java Foundations,HR Automation,Business Analyst,550000.0,,Jaipur
+Priya Sharma,S187,BCA,"Marketing, Sales",Excel Basics,E-commerce Website,HR Analyst,700000.0,2.0,Mumbai
+Sneha Patel,S498,BBA,"Cloud, DevOps",Python for Everyone,Data Dashboard,Web Developer,600000.0,4.0,Chennai
+Ravi Singh,S160,BCA,"Cloud, DevOps",Leadership Basics,Data Dashboard,Software Developer,800000.0,,Pune
+Kiran Das,S013,,"Python, Excel",Azure Fundamentals,Data Dashboard,Software Developer,900000.0,4.0,Remote
+Kiran Das,S036,MBA,"React, Node.js",,Library Management,Cloud Engineer,700000.0,3.0,Chennai
+Neha Gupta,S029,M.Tech AI,"Cloud, DevOps",Data Science with R,Market Analysis,Software Developer,800000.0,1.0,Ahmedabad
+Meena Rani,S171,BCA,"Cloud, DevOps",Data Science with R,E-commerce Website,Web Developer,450000.0,0.0,Mumbai
+Rahul Verma,S143,MBA,"Data Analytics, Power BI",AWS Cloud Practitioner,Student Portal,Full Stack Developer,800000.0,1.0,Remote
+Sneha Patel,S498,BBA,"Cloud, DevOps",Python for Everyone,Data Dashboard,Web Developer,600000.0,4.0,Chennai
+Ravi Singh,S335,M.Tech AI,"Marketing, Sales",Digital Marketing,Sales Forecasting,Business Analyst,350000.0,0.0,Jaipur
+Arjun Rao,S222,M.Sc Data Science,"Management, Excel",,Market Analysis,Web Developer,450000.0,0.0,Kolkata
+Ravi Singh,S487,BBA,"Python, Excel",Leadership Basics,Library Management,Web Developer,450000.0,0.0,Kolkata
+Ravi Singh,S096,,"Data Analytics, Power BI",Data Science with R,Data Dashboard,Web Developer,700000.0,2.0,Bangalore
+Neha Gupta,S052,B.Sc IT,"Python, Excel",Google Data Analytics,AI Chatbot,HR Analyst,450000.0,4.0,Kolkata
+Arjun Rao,S241,B.Tech CSE,"Management, Excel",,Student Portal,Software Developer,800000.0,0.0,Delhi
+Ankit Mehta,S430,B.Tech ECE,"Python, ML, SQL",,Student Portal,Software Developer,900000.0,0.0,Pune
+Ankit Mehta,S352,B.Sc IT,,Excel Basics,Library Management,Full Stack Developer,450000.0,0.0,Ahmedabad
+Ankit Mehta,S439,MBA,"AI, ML, Python",Python for Everyone,Data Dashboard,Cloud Engineer,350000.0,4.0,Jaipur
+Sneha Patel,S179,B.Com,"Python, Excel",Google Data Analytics,Library Management,Data Analyst,,4.0,Chennai
+Neha Gupta,S451,M.Sc Data Science,"Data Analytics, Power BI",Excel Basics,Student Portal,Data Scientist,400000.0,4.0,
+Arjun Rao,S042,B.Tech ECE,"Data Analytics, Power BI",Java Foundations,Data Dashboard,Web Developer,,3.0,Ahmedabad
+Amit Kumar,S156,MCA,"Python, Excel",Digital Marketing,E-commerce Website,Marketing Executive,800000.0,2.0,Remote
+Amit Kumar,S448,B.Com,"Marketing, Sales",Excel Basics,Customer Retention,Cloud Engineer,900000.0,1.0,Jaipur
+Priya Sharma,S207,M.Tech AI,"AI, ML, Python",Azure Fundamentals,AI Chatbot,Cloud Engineer,600000.0,2.0,Remote
+Amit Kumar,S393,MCA,"AI, ML, Python",Excel Basics,Customer Retention,HR Analyst,450000.0,2.0,Mumbai
+Arjun Rao,S283,M.Tech AI,"Cloud, DevOps",,E-commerce Website,Data Analyst,,3.0,Jaipur
+Ankit Mehta,S359,B.Com,"Python, ML, SQL",Excel Basics,Library Management,AI Engineer,700000.0,0.0,Mumbai
+Amit Kumar,S398,MCA,"Management, Excel",Java Foundations,Sales Forecasting,Data Analyst,450000.0,3.0,Delhi
+Ravi Singh,S255,BBA,"Java, Spring",AWS Cloud Practitioner,Customer Retention,Cloud Engineer,800000.0,4.0,Chennai
+Amit Kumar,S480,BCA,"Python, Excel",Azure Fundamentals,Market Analysis,Data Scientist,900000.0,4.0,Delhi
+Sneha Patel,S005,M.Tech AI,"Data Analytics, Power BI",Data Science with R,AI Chatbot,Data Analyst,550000.0,2.0,Hyderabad
+Sneha Patel,S257,B.Com,"Python, Excel",AI Certification,,Data Analyst,900000.0,4.0,Remote
+Ankit Mehta,S389,MBA,,AWS Cloud Practitioner,Sales Forecasting,AI Engineer,900000.0,3.0,Chennai
+Kiran Das,S101,MBA,"AI, ML, Python",Excel Basics,Library Management,Business Analyst,400000.0,,Mumbai
+Ravi Singh,S227,BBA,"AI, ML, Python",Azure Fundamentals,Library Management,Marketing Executive,500000.0,3.0,Mumbai
+Meena Rani,S493,B.Tech CSE,"Data Analytics, Power BI",,Student Portal,Software Developer,900000.0,0.0,Jaipur
+Rahul Verma,S214,B.Tech CSE,"Cloud, DevOps",Data Science with R,Library Management,Cloud Engineer,600000.0,,Hyderabad
+Priya Sharma,S488,M.Sc Data Science,"React, Node.js",AI Certification,Web Scraper,HR Analyst,550000.0,0.0,Hyderabad
+Arjun Rao,S172,,"AI, ML, Python",AWS Cloud Practitioner,Data Dashboard,Marketing Executive,600000.0,0.0,Mumbai
+Kiran Das,S099,MBA,"AI, ML, Python",,AI Chatbot,Cloud Engineer,,0.0,Remote
+Arjun Rao,S293,B.Com,"Python, Excel",Azure Fundamentals,Customer Retention,Marketing Executive,600000.0,3.0,Kolkata
+Sneha Patel,S216,B.Com,"Python, Excel",Digital Marketing,Customer Retention,Web Developer,800000.0,1.0,Mumbai
+Meena Rani,S062,MCA,"Data Analytics, Power BI",Python for Everyone,Student Portal,Cloud Engineer,,0.0,Kolkata
+Ravi Singh,S407,MCA,"Cloud, DevOps",Excel Basics,HR Automation,Data Analyst,350000.0,2.0,Mumbai
+Amit Kumar,S048,MBA,"Java, Spring",,Sales Forecasting,Data Analyst,350000.0,,Jaipur
+Priya Sharma,S033,B.Sc IT,"C++, HTML, CSS",Data Science with R,Student Portal,Data Scientist,600000.0,,Jaipur
+Neha Gupta,S418,B.Tech ECE,"Cloud, DevOps",Digital Marketing,HR Automation,HR Analyst,800000.0,0.0,Delhi
+Rahul Verma,S268,,"Management, Excel",Azure Fundamentals,Web Scraper,Marketing Executive,500000.0,,Pune
+Neha Gupta,S328,B.Com,"Python, ML, SQL",Excel Basics,Web Scraper,Business Analyst,450000.0,0.0,
+Neha Gupta,S201,MBA,,,Data Dashboard,Marketing Executive,600000.0,3.0,Kolkata
+Arjun Rao,S135,BCA,"Java, Spring",Leadership Basics,E-commerce Website,Full Stack Developer,600000.0,2.0,Pune
+Ravi Singh,S028,B.Com,"Cloud, DevOps",Leadership Basics,Student Portal,Marketing Executive,700000.0,3.0,Kolkata
+Arjun Rao,S450,B.Tech CSE,"AI, ML, Python",Python for Everyone,E-commerce Website,Web Developer,550000.0,,Hyderabad
+Amit Kumar,S231,B.Com,,,Web Scraper,AI Engineer,550000.0,4.0,Hyderabad
+Amit Kumar,S261,MBA,"Management, Excel",AWS Cloud Practitioner,Customer Retention,AI Engineer,800000.0,1.0,Pune
+Priya Sharma,S379,,"Java, Spring",Digital Marketing,Data Dashboard,Data Scientist,,1.0,Delhi
+Meena Rani,S289,MCA,"AI, ML, Python",Google Data Analytics,Student Portal,HR Analyst,550000.0,2.0,Remote
+Sneha Patel,S419,BCA,"Java, Spring",AI Certification,Sales Forecasting,Marketing Executive,800000.0,3.0,Hyderabad
+Neha Gupta,S163,M.Sc Data Science,"Python, ML, SQL",Python for Everyone,HR Automation,Software Developer,,,Hyderabad
+Meena Rani,S392,M.Sc Data Science,"Java, Spring",Excel Basics,Data Dashboard,Full Stack Developer,550000.0,2.0,Chennai
+Arjun Rao,S491,B.Com,"React, Node.js",Python for Everyone,Web Scraper,Full Stack Developer,500000.0,1.0,Ahmedabad
+Amit Kumar,S139,MCA,"Cloud, DevOps",Google Data Analytics,Web Scraper,Marketing Executive,550000.0,1.0,Jaipur
+Kiran Das,S063,B.Tech ECE,"Marketing, Sales",Java Foundations,AI Chatbot,Web Developer,600000.0,4.0,Ahmedabad
+Neha Gupta,S136,BBA,"Management, Excel",Google Data Analytics,Customer Retention,Data Scientist,400000.0,4.0,Kolkata
+Sneha Patel,S129,B.Tech ECE,"Cloud, DevOps",Google Data Analytics,AI Chatbot,Web Developer,450000.0,3.0,Pune
+Ravi Singh,S120,BCA,"Python, ML, SQL",Data Science with R,Student Portal,HR Analyst,700000.0,0.0,Remote
+Rahul Verma,S009,B.Tech ECE,"Java, Spring",Java Foundations,Student Portal,Web Developer,350000.0,,Remote
+Ravi Singh,S327,MCA,"Cloud, DevOps",,Customer Retention,Data Analyst,,0.0,Delhi
+Priya Sharma,S345,B.Tech CSE,"Java, Spring",Java Foundations,,Full Stack Developer,600000.0,4.0,Kolkata
+Arjun Rao,S065,B.Sc IT,"Data Analytics, Power BI",Python for Everyone,,Cloud Engineer,,,Delhi
+Meena Rani,S301,M.Sc Data Science,"Marketing, Sales",Google Data Analytics,Student Portal,HR Analyst,500000.0,3.0,Remote
+Priya Sharma,S015,B.Tech ECE,"C++, HTML, CSS",Google Data Analytics,Customer Retention,Cloud Engineer,800000.0,3.0,Delhi
+Priya Sharma,S157,MBA,"Cloud, DevOps",Leadership Basics,Library Management,Marketing Executive,550000.0,1.0,Ahmedabad
+Sneha Patel,S041,BBA,"Python, Excel",,Sales Forecasting,Cloud Engineer,500000.0,1.0,Jaipur
+Neha Gupta,S380,B.Tech CSE,"AI, ML, Python",,AI Chatbot,Full Stack Developer,450000.0,0.0,Pune
+Ankit Mehta,S188,BCA,"Python, Excel",Azure Fundamentals,Market Analysis,Data Scientist,350000.0,4.0,Kolkata
+Meena Rani,S465,MCA,"Java, Spring",Data Science with R,E-commerce Website,AI Engineer,900000.0,,Bangalore
+Amit Kumar,S217,MCA,"Java, Spring",Digital Marketing,Student Portal,AI Engineer,800000.0,4.0,Mumbai
+Arjun Rao,S410,,"AI, ML, Python",Excel Basics,Sales Forecasting,HR Analyst,350000.0,1.0,Ahmedabad
+Rahul Verma,S280,B.Tech CSE,,Google Data Analytics,Data Dashboard,AI Engineer,450000.0,0.0,Bangalore
+Rahul Verma,S375,B.Com,"React, Node.js",Data Science with R,Student Portal,Cloud Engineer,500000.0,4.0,Mumbai
+Kiran Das,S499,M.Sc Data Science,"AI, ML, Python",Excel Basics,Library Management,AI Engineer,800000.0,0.0,Mumbai
+Kiran Das,S338,B.Sc IT,"Python, ML, SQL",Leadership Basics,Student Portal,AI Engineer,800000.0,,Mumbai
+Ravi Singh,S237,B.Sc IT,"AI, ML, Python",Azure Fundamentals,Sales Forecasting,Data Scientist,600000.0,1.0,Pune
+Meena Rani,S208,M.Tech AI,"Java, Spring",AI Certification,Customer Retention,Data Scientist,800000.0,4.0,Ahmedabad
+Priya Sharma,S213,,"React, Node.js",Google Data Analytics,Student Portal,HR Analyst,700000.0,0.0,Ahmedabad
+Rahul Verma,S296,M.Tech AI,"React, Node.js",Data Science with R,Customer Retention,HR Analyst,400000.0,4.0,Ahmedabad
+Arjun Rao,S317,M.Tech AI,,Google Data Analytics,E-commerce Website,Data Analyst,600000.0,,Ahmedabad
+Rahul Verma,S252,B.Com,"Python, ML, SQL",AI Certification,Market Analysis,Web Developer,500000.0,1.0,Chennai
+Neha Gupta,S032,B.Sc IT,"React, Node.js",Google Data Analytics,E-commerce Website,HR Analyst,700000.0,2.0,
+Rahul Verma,S462,MBA,"Python, ML, SQL",AWS Cloud Practitioner,Market Analysis,AI Engineer,350000.0,2.0,Jaipur
+Rahul Verma,S456,,"AI, ML, Python",Digital Marketing,HR Automation,Web Developer,350000.0,4.0,Remote
+Arjun Rao,S283,M.Tech AI,"Cloud, DevOps",,E-commerce Website,Data Analyst,,3.0,Jaipur
+Priya Sharma,S304,MBA,,AI Certification,Student Portal,Full Stack Developer,800000.0,2.0,Chennai
+Arjun Rao,S351,MCA,"Python, Excel",Azure Fundamentals,Web Scraper,AI Engineer,500000.0,0.0,Hyderabad
+Amit Kumar,S270,MBA,"AI, ML, Python",Java Foundations,Sales Forecasting,AI Engineer,,2.0,Ahmedabad
+Arjun Rao,S446,MBA,"Python, Excel",Python for Everyone,Sales Forecasting,Data Analyst,500000.0,1.0,Remote
+Priya Sharma,S202,B.Sc IT,,,Sales Forecasting,Data Analyst,800000.0,3.0,Pune
+Meena Rani,S162,M.Tech AI,"Cloud, DevOps",Excel Basics,E-commerce Website,HR Analyst,500000.0,4.0,Chennai
+Meena Rani,S044,M.Tech AI,"Cloud, DevOps",Digital Marketing,Web Scraper,HR Analyst,700000.0,,Hyderabad
+Ravi Singh,S218,M.Tech AI,"Cloud, DevOps",Java Foundations,Customer Retention,Full Stack Developer,450000.0,4.0,Ahmedabad
+Sneha Patel,S402,MCA,"AI, ML, Python",Azure Fundamentals,Sales Forecasting,AI Engineer,450000.0,,Mumbai
+Meena Rani,S191,B.Tech CSE,"Data Analytics, Power BI",,Customer Retention,Data Scientist,400000.0,,Bangalore
+Kiran Das,S477,B.Tech ECE,"C++, HTML, CSS",Google Data Analytics,Customer Retention,Data Scientist,550000.0,4.0,Kolkata
+Meena Rani,S310,BBA,"React, Node.js",Python for Everyone,HR Automation,Web Developer,400000.0,4.0,Jaipur
+Ravi Singh,S260,B.Com,"Cloud, DevOps",AWS Cloud Practitioner,Data Dashboard,Data Scientist,800000.0,,Bangalore
+Kiran Das,S106,BBA,"Python, Excel",Data Science with R,Student Portal,Marketing Executive,550000.0,,
+Rahul Verma,S054,B.Com,"C++, HTML, CSS",Python for Everyone,HR Automation,HR Analyst,450000.0,,Jaipur
+Amit Kumar,S390,B.Tech ECE,"Data Analytics, Power BI",Excel Basics,HR Automation,Business Analyst,500000.0,0.0,Bangalore
+Kiran Das,S002,B.Com,"Data Analytics, Power BI",,,Data Scientist,400000.0,2.0,Chennai
+Arjun Rao,S491,B.Com,"React, Node.js",Python for Everyone,Web Scraper,Full Stack Developer,500000.0,1.0,Ahmedabad
+Arjun Rao,S360,B.Tech ECE,"Data Analytics, Power BI",Digital Marketing,Student Portal,AI Engineer,800000.0,0.0,Delhi
+Arjun Rao,S050,MCA,"AI, ML, Python",AI Certification,Web Scraper,AI Engineer,400000.0,,Bangalore
+Rahul Verma,S420,BBA,"Python, ML, SQL",Java Foundations,Student Portal,Data Analyst,500000.0,4.0,Kolkata
+Amit Kumar,S081,BBA,,Data Science with R,Library Management,Data Analyst,350000.0,,Remote
+Rahul Verma,S206,BBA,"Data Analytics, Power BI",Google Data Analytics,Data Dashboard,Business Analyst,500000.0,1.0,Jaipur
+Priya Sharma,S035,B.Sc IT,"AI, ML, Python",AWS Cloud Practitioner,Customer Retention,Cloud Engineer,400000.0,0.0,Delhi
+Amit Kumar,S431,BBA,"Cloud, DevOps",Azure Fundamentals,,Marketing Executive,450000.0,3.0,Chennai
+Rahul Verma,S264,B.Tech ECE,,,E-commerce Website,AI Engineer,550000.0,0.0,
+Rahul Verma,S428,,"Java, Spring",,Customer Retention,Marketing Executive,350000.0,3.0,Hyderabad
+Neha Gupta,S455,B.Tech CSE,"AI, ML, Python",,AI Chatbot,Data Scientist,550000.0,1.0,Jaipur
+Sneha Patel,S444,M.Tech AI,"Marketing, Sales",,Student Portal,Marketing Executive,,1.0,Chennai
+Neha Gupta,S367,BBA,"C++, HTML, CSS",Digital Marketing,Web Scraper,Software Developer,900000.0,4.0,Bangalore
+Ankit Mehta,S092,B.Tech CSE,"Marketing, Sales",Google Data Analytics,HR Automation,Marketing Executive,900000.0,0.0,Bangalore
+Arjun Rao,S340,BCA,"Python, Excel",AI Certification,Library Management,Web Developer,,3.0,Jaipur
+Ankit Mehta,S422,B.Com,"Cloud, DevOps",Google Data Analytics,Library Management,Full Stack Developer,350000.0,0.0,Remote
+Arjun Rao,S053,MCA,"Cloud, DevOps",Google Data Analytics,Market Analysis,Web Developer,,2.0,Mumbai
+Priya Sharma,S346,MCA,"Management, Excel",Excel Basics,Data Dashboard,Business Analyst,450000.0,0.0,
+Ravi Singh,S265,BCA,"Data Analytics, Power BI",Excel Basics,Student Portal,HR Analyst,450000.0,0.0,Jaipur
+Priya Sharma,S395,M.Sc Data Science,"C++, HTML, CSS",,Sales Forecasting,Cloud Engineer,400000.0,4.0,Mumbai
+Neha Gupta,S242,MCA,"Marketing, Sales",Leadership Basics,,Full Stack Developer,550000.0,3.0,Kolkata
+Kiran Das,S014,B.Sc IT,"React, Node.js",Data Science with R,AI Chatbot,Web Developer,350000.0,3.0,Jaipur
+Meena Rani,S316,BCA,"Cloud, DevOps",Azure Fundamentals,,Data Scientist,600000.0,,Mumbai
+Arjun Rao,S089,B.Sc IT,"Cloud, DevOps",Azure Fundamentals,AI Chatbot,Data Scientist,500000.0,1.0,Mumbai
+Ravi Singh,S388,M.Tech AI,"Python, Excel",Google Data Analytics,Sales Forecasting,Marketing Executive,400000.0,2.0,Jaipur
+Priya Sharma,S274,MBA,"Python, ML, SQL",Java Foundations,Student Portal,HR Analyst,450000.0,1.0,Jaipur
+Arjun Rao,S167,M.Tech AI,"Data Analytics, Power BI",Excel Basics,Student Portal,Full Stack Developer,800000.0,4.0,Bangalore
+Amit Kumar,S383,B.Sc IT,"Cloud, DevOps",Excel Basics,Customer Retention,Business Analyst,900000.0,1.0,Hyderabad
+Arjun Rao,S485,BBA,"Cloud, DevOps",Azure Fundamentals,Sales Forecasting,Data Analyst,500000.0,0.0,Remote
+Ankit Mehta,S353,MCA,"Data Analytics, Power BI",,Data Dashboard,HR Analyst,,1.0,Delhi
+Amit Kumar,S105,MBA,"React, Node.js",Digital Marketing,HR Automation,Cloud Engineer,350000.0,1.0,Mumbai
+Neha Gupta,S244,,"React, Node.js",Data Science with R,Customer Retention,Marketing Executive,350000.0,4.0,Remote
+Priya Sharma,S190,B.Tech CSE,"Data Analytics, Power BI",Leadership Basics,Customer Retention,Software Developer,450000.0,0.0,Pune
+Ravi Singh,S476,BBA,"React, Node.js",AI Certification,Market Analysis,Marketing Executive,900000.0,,Delhi
+Rahul Verma,S010,B.Sc IT,"Java, Spring",Google Data Analytics,,Marketing Executive,500000.0,0.0,Delhi
+Ankit Mehta,S059,B.Tech ECE,"Python, Excel",Data Science with R,Data Dashboard,Business Analyst,350000.0,0.0,Pune
+Rahul Verma,S475,M.Tech AI,"Management, Excel",Excel Basics,HR Automation,Web Developer,350000.0,,Remote
+Kiran Das,S253,M.Tech AI,"Cloud, DevOps",Digital Marketing,E-commerce Website,Data Analyst,400000.0,4.0,Ahmedabad
+Meena Rani,S022,B.Tech ECE,"AI, ML, Python",Google Data Analytics,Customer Retention,HR Analyst,450000.0,3.0,Bangalore
+Priya Sharma,S314,B.Tech CSE,"React, Node.js",Leadership Basics,Student Portal,Business Analyst,800000.0,3.0,Mumbai
+Ankit Mehta,S460,MBA,"C++, HTML, CSS",Java Foundations,Data Dashboard,Data Scientist,800000.0,1.0,Delhi
+Rahul Verma,S161,MBA,"Management, Excel",Excel Basics,HR Automation,Data Analyst,600000.0,0.0,Pune
+Sneha Patel,S277,MBA,"React, Node.js",Azure Fundamentals,Student Portal,Software Developer,800000.0,1.0,Chennai
+Amit Kumar,S192,B.Com,"C++, HTML, CSS",Java Foundations,Student Portal,Web Developer,450000.0,3.0,Hyderabad
+Arjun Rao,S386,B.Sc IT,"Cloud, DevOps",Leadership Basics,Market Analysis,Marketing Executive,600000.0,,Delhi
+Ravi Singh,S414,B.Sc IT,"AI, ML, Python",,Library Management,Web Developer,550000.0,0.0,Bangalore
+Rahul Verma,S492,B.Tech CSE,"Management, Excel",,Library Management,HR Analyst,,4.0,Ahmedabad
+Ravi Singh,S344,B.Sc IT,"Marketing, Sales",Google Data Analytics,Library Management,HR Analyst,600000.0,4.0,Pune
+Ravi Singh,S309,B.Sc IT,"React, Node.js",AWS Cloud Practitioner,HR Automation,Marketing Executive,450000.0,,Hyderabad
+Kiran Das,S131,B.Sc IT,"Management, Excel",AI Certification,,AI Engineer,700000.0,4.0,Remote
+Sneha Patel,S100,M.Tech AI,"React, Node.js",Google Data Analytics,Student Portal,Data Analyst,600000.0,3.0,Hyderabad
+Amit Kumar,S373,B.Tech ECE,"Java, Spring",Google Data Analytics,Market Analysis,Data Scientist,800000.0,0.0,Pune
+Ravi Singh,S088,MCA,"Cloud, DevOps",Google Data Analytics,Library Management,Software Developer,900000.0,0.0,Remote
+Ravi Singh,S459,BBA,"Data Analytics, Power BI",AI Certification,Data Dashboard,Software Developer,550000.0,,
+Sneha Patel,S331,BCA,"C++, HTML, CSS",Java Foundations,,Web Developer,500000.0,4.0,Mumbai
+Neha Gupta,S215,MCA,"C++, HTML, CSS",Data Science with R,HR Automation,AI Engineer,600000.0,,Remote
+Ankit Mehta,S467,BCA,"C++, HTML, CSS",Leadership Basics,Sales Forecasting,HR Analyst,500000.0,2.0,Hyderabad
+Meena Rani,S122,BCA,"Python, ML, SQL",Digital Marketing,,Software Developer,600000.0,4.0,Kolkata
+Rahul Verma,S021,B.Sc IT,"Python, ML, SQL",Google Data Analytics,E-commerce Website,AI Engineer,800000.0,0.0,Bangalore
+Sneha Patel,S072,BBA,"Python, Excel",Azure Fundamentals,Market Analysis,Marketing Executive,600000.0,,Kolkata
+Amit Kumar,S107,M.Tech AI,"React, Node.js",Excel Basics,Customer Retention,Cloud Engineer,900000.0,1.0,Kolkata
+Meena Rani,S271,M.Sc Data Science,"Python, ML, SQL",Digital Marketing,Customer Retention,HR Analyst,350000.0,3.0,Pune
+Rahul Verma,S436,BBA,"Management, Excel",Excel Basics,Sales Forecasting,Data Analyst,550000.0,2.0,Delhi
+Ankit Mehta,S103,B.Com,"AI, ML, Python",Leadership Basics,Sales Forecasting,Web Developer,450000.0,2.0,Chennai
